@@ -23,12 +23,12 @@
   > - Analyzed the Tetris example  <!--Your entry here or N/A if not applicable for this entry-->
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  > - Generic setting and interactive gameplay loop differentiation
-  > - Scoping down features to make it more palatable to create<!--Your entry here or N/A if not applicable for this entry-->
+  > - Generic setting and interactive gameplay loop differentiation.
+  > - Scoping down features to make it more palatable to create. <!--Your entry here or N/A if not applicable for this entry-->
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  > - Using the four questions test
-  > - Brainstorming the cardboard prototype and seeing what's in range <!--Your entry here or N/A if not applicable for this entry-->
+  > - Using the four questions test.
+  > - Brainstorming the cardboard prototype and seeing what's in range. <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
